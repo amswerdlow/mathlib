@@ -1,4 +1,4 @@
-import group_theory.subgroup group_theory.submonoid
+import group_theory.subgroup
 import data.polynomial
 import algebra.ring
 
