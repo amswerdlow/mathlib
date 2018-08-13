@@ -1,4 +1,4 @@
-import group_theory.subgroup ring_theory.subring
+import ring_theory.subring
 
 variables {F : Type*}
 
