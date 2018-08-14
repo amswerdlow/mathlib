@@ -2,7 +2,6 @@
 Copyright (c) 2018 Johan Commelin. All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
 Authors: Johan Commelin
-The complex numbers, modelled as R^2 in the obvious way.
 -/
 
 import group_theory.subgroup
